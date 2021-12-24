@@ -1,0 +1,7 @@
+{
+  "name": "adMobile",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
